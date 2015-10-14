@@ -1,0 +1,6 @@
+framework module MyBeesKit {
+  umbrella header "MyBeesKit.h"
+
+  export *
+  module * { export * }
+}
